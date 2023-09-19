@@ -1,2 +1,1 @@
-"# moviesWpReact" 
-"# Webpack + React App" 
+"# Webpack + React App"
